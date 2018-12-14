@@ -1,5 +1,5 @@
 //setting up the link to the table data from friends.js 
-const friendsData = require("/routing/apiRoutes");
+const friendsData = require("../data/friends");
 
 module.exports = function (app) {
 
